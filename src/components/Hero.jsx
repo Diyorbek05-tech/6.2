@@ -20,7 +20,7 @@ const Hero = () => {
             <div className='text-center mt-10'>           
                  <button className='text-[20px]  font-semibold cursor-pointer hover:text-black hover:border-black py-1 px-9 text-white border border-white'>Discover now</button>
             </div>
-        <div className='text-[15px] opacity-80 absolute bottom-[45vh] left-5 text-white bg-black py-4 px-7'>Do you know what is your decor style?</div>
+        <div className='text-[15px] opacity-80 absolute bottom-[45vh] left-5 text-white bg-bla py-4 px-7'>Do you know what is your decor style?</div>
     </main>
     </>
   )
